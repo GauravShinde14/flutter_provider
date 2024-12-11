@@ -1,6 +1,6 @@
 # provider
 
-A new Flutter project.
+Flutter project in which implementation of Provider is demonstrated.
 
 ## Getting Started
 
